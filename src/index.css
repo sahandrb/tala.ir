@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Vazirmatn", system-ui, sans-serif;
+  --color-digi-red: #ef4056;
+  --color-digi-red-hover: #d32f2f;
+  --color-digi-dark: #3f4064;
+  --color-digi-light: #767790;
+  --color-digi-bg: #f0f0f1;
+  --color-digi-border: #e0e0e2;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Vazirmatn", sans-serif;
+  background-color: var(--color-digi-bg);
+  color: var(--color-digi-dark);
+}
+

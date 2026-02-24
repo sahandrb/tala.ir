@@ -1,0 +1,45 @@
+لیست تصاویر مورد نیاز برای سایت تولیدی امید:
+لطفاً تمام این تصاویر را در پوشه public/images/ قرار دهید.
+
+hero-banner.jpg : عکس بنر اصلی بالای سایت (سایز پیشنهادی: 1920x600)
+special-offer.jpg : عکس کوچک برای بخش تولیدات ویژه وایت‌برد (سایز پیشنهادی: 200x200، ترجیحاً بدون پس‌زمینه یا با پس‌زمینه سفید)
+whiteboard-aluminum.jpg : عکس وایت‌برد فریم آلومینیومی (سایز پیشنهادی: 400x400)
+whiteboard-pvc.jpg : عکس وایت‌برد فریم PVC (سایز پیشنهادی: 400x400)
+stand-mobile.jpg : عکس پایه وایت‌برد متحرک (سایز پیشنهادی: 600x800)
+stand-reversible.jpg : عکس پایه وایت‌برد متحرک گردان (سایز پیشنهادی: 600x800)
+stand-heavy.jpg : عکس پایه وایت‌برد متحرک سنگین (سایز پیشنهادی: 600x800)
+binder-fantasy.jpg : عکس زونکن فانتزی (سایز پیشنهادی: 400x400)
+binder-slant.jpg : عکس زونکن لب‌کج (سایز پیشنهادی: 400x400)
+binder-triangle.jpg : عکس زونکن سه‌گوش (سایز پیشنهادی: 400x400)
+binder-a3.jpg : عکس زونکن سایز بزرگ A3 (سایز پیشنهادی: 400x400)
+canvas-pro.jpg : عکس بوم نقاشی حرفه‌ای کتان (سایز پیشنهادی: 400x400)
+canvas-student.jpg : عکس بوم نقاشی هنرجویی پلی‌استر (سایز پیشنهادی: 400x400)
+
+--- تصاویر گالری محصولات ---
+برای هر محصول، 10 عکس در نظر گرفته شده است. لطفاً این تصاویر را نیز در پوشه public/images/ قرار دهید:
+
+گالری وایت‌برد آلومینیومی:
+aluminiumwhiteboard1.jpg تا aluminiumwhiteboard10.jpg
+
+گالری وایت‌برد PVC:
+pvcwhiteboard1.jpg تا pvcwhiteboard10.jpg
+
+گالری زونکن فانتزی:
+fantasybinder1.jpg تا fantasybinder10.jpg
+
+گالری زونکن لب‌کج:
+slantbinder1.jpg تا slantbinder10.jpg
+
+گالری زونکن سه‌گوش:
+trianglebinder1.jpg تا trianglebinder10.jpg
+
+گالری زونکن سایز بزرگ A3:
+a3binder1.jpg تا a3binder10.jpg
+
+گالری بوم نقاشی حرفه‌ای:
+procanvas1.jpg تا procanvas10.jpg
+
+گالری بوم نقاشی هنرجویی:
+studentcanvas1.jpg تا studentcanvas10.jpg
+
+نکته: فایل logo.jpg نیز باید در پوشه public (کنار فایل index.html) قرار گیرد (برای نمایش در تب مرورگر و شبکه‌های اجتماعی).
